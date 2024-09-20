@@ -1,19 +1,20 @@
 import { hopeTheme } from "vuepress-theme-hope";
+import { docsearchPlugin } from '@vuepress/plugin-docsearch';
 
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
+  hostname: "https://docs.tigertech.sbs",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "TigerTech",
+    url: "https://docs.tigertech.sbs",
   },
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "https://image.tigertech.sbs/image-pool/2024/09/%E7%AA%84%E8%BE%B9-%E7%99%BD%E5%BA%95.png",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -31,44 +32,13 @@ export default hopeTheme({
 
   // 博客相关
   blog: {
-    description: "一个前端开发者",
+    name: "TigerTech",
+    description: "小虎头玩技术",
+    avatar: "https://image.tigertech.sbs/image-pool/2024/09/%E8%99%8E%E5%A4%B4logo-%E7%BB%88%E7%89%88%E7%99%BD%E5%BA%95.png",
     intro: "/intro.html",
     medias: {
-      Baidu: "https://example.com",
-      BiliBili: "https://example.com",
-      Bitbucket: "https://example.com",
-      Dingding: "https://example.com",
-      Discord: "https://example.com",
-      Dribbble: "https://example.com",
-      Email: "mailto:info@example.com",
-      Evernote: "https://example.com",
-      Facebook: "https://example.com",
-      Flipboard: "https://example.com",
-      Gitee: "https://example.com",
       GitHub: "https://example.com",
-      Gitlab: "https://example.com",
-      Gmail: "mailto:info@example.com",
-      Instagram: "https://example.com",
-      Lark: "https://example.com",
-      Lines: "https://example.com",
-      Linkedin: "https://example.com",
-      Pinterest: "https://example.com",
-      Pocket: "https://example.com",
-      QQ: "https://example.com",
-      Qzone: "https://example.com",
-      Reddit: "https://example.com",
-      Rss: "https://example.com",
-      Steam: "https://example.com",
-      Twitter: "https://example.com",
-      Wechat: "https://example.com",
-      Weibo: "https://example.com",
-      Whatsapp: "https://example.com",
-      Youtube: "https://example.com",
-      Zhihu: "https://example.com",
-      VuePressThemeHope: {
-        icon: "https://theme-hope-assets.vuejs.press/logo.svg",
-        link: "https://theme-hope.vuejs.press",
-      },
+      Gmail: "tigertech.dean@gmail.com",
     },
   },
 
