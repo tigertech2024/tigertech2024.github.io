@@ -7,10 +7,9 @@ heroImage: https://image.tigertech.sbs/image-pool/2024/09/%E8%99%8E%E5%A4%B4logo
 heroText: 小虎头技术
 heroFullScreen: true
 tagline: 一个神奇的个人知识存储博客
-bgImage: https://pub-d6e8a5418aa94061a845c7c686b2a386.r2.dev/image-pool/2024/09/%E9%92%93%E9%B1%BC%E8%83%8C%E6%99%AF01.jpg
-bgImageDark: https://pub-d6e8a5418aa94061a845c7c686b2a386.r2.dev/image-pool/2024/09/%E9%BB%91%E8%89%B2%E6%A8%A1%E5%BC%8F%E8%83%8C%E6%99%AF.jpg
-//bgImageDark: https://img1.baidu.com/it/u=3488896466,400626151&fm=253&fmt=auto&app=138&f=JPEG?w=1250&h=500
-// bgImageDark: https://bpic.51yuansu.com/backgd/cover/00/07/22/5b6a96ffe5ff3.jpg?x-oss-process=image/resize,h_360,m_lfit/sharpen,100
+bgImage: /assets/images/白色模式背景.jpg
+bgImageDark: /assets/images/钓鱼背景黑色.jpg
+
 projects:
   - icon: project
     name: 项目名称
