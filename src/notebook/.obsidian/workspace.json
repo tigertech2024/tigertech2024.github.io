@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09.笔记模板/VUE页面模板.md",
+                "file": "09.Template/VUE页面模板.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "bda64c92683724ac",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09.笔记模板/VUE页面模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09.笔记模板/VUE页面模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "09.笔记模板/VUE页面模板.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,21 +152,43 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "7627f6dc3f9309ee",
+  "active": "bda64c92683724ac",
   "lastOpenFiles": [
-    "06.神秘大渊/Token.md",
-    "09.笔记模板/VUE页面模板.md",
-    "06.神秘大渊/未命名.md",
+    "05.包罗万象/0504.万象_杂谈/这是一个基础文件.md",
+    "05.包罗万象/0503.万象_爱好/这是一个基础文件.md",
+    "05.包罗万象/0502.万象_美食/这是一个基础文件.md",
+    "05.包罗万象/0501.万象_家装/这是一个基础文件.md",
+    "04.实战演练/这是一个基础文件.md",
+    "03.应用平台/0306.应用_Others/这是一个基础文件.md",
+    "03.应用平台/0305.应用_SmartHome/这是一个基础文件.md",
+    "03.应用平台/0304.应用_Docker/这是一个基础文件.md",
+    "03.应用平台/0302.应用_RaspberryPi/这是一个基础文件.md",
+    "03.应用平台/0303.应用_SoftRouter/这是一个基础文件.md",
+    "03.应用平台/0301.应用_Synology/这是一个基础文件.md",
+    "02.系统技术/0203.系统_Linux/020304.系统_Linux_CloudTech/这是一个基础文件.md",
+    "02.系统技术/0203.系统_Linux/020303.系统_Linux_Debian/这是一个基础文件.md",
+    "02.系统技术/0203.系统_Linux/020302.系统_Linux_Ubuntu/这是一个基础文件.md",
+    "02.系统技术/0203.系统_Linux/020301.系统_Linux_Centos/这是一个基础文件.md",
+    "02.系统技术/0202.系统_MacOS/这是一个基础文件.md",
+    "02.系统技术/0201.系统_Windows/这是一个基础文件.md",
+    "01.网络技术/0104.网络_UC/这是一个基础文件.md",
+    "01.网络技术/0103.网络_SEC/这是一个基础文件.md",
+    "05.包罗万象/这是一个基础文件.md",
+    "02.系统技术/0203.系统_Linux/这是一个基础文件.md",
+    "01.网络技术/0105.网络_DC/这是一个基础文件.md",
+    "01.网络技术/0102.网络_WL/这是一个基础文件.md",
+    "01.网络技术/0101.网络_RS/这是一个基础文件.md",
+    "01.网络技术/0101.网络_RS/未命名.md",
+    "09.Template/VUE页面模板.md",
+    "template",
     "05.包罗万象/0504.万象_杂谈",
     "05.包罗万象/0503.万象_爱好",
-    "05.包罗万象/0502.万象_没事",
+    "05.包罗万象/0502.万象_美食",
     "05.包罗万象/0501.万象_家装",
     "03.应用平台/0306.应用_Others",
     "03.应用平台/0305.应用_SmartHome",
     "03.应用平台/0304.应用_Docker",
     "03.应用平台/0303.应用_SoftRouter",
-    "03.应用平台/0302.应用_RaspberryPi",
-    "03.应用平台/0301.应用_Synology",
-    "01.网络技术/未命名.md"
+    "03.应用平台/0302.应用_RaspberryPi"
   ]
 }
