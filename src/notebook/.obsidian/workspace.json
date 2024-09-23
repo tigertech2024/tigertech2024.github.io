@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "44f87516c05de54e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac2be4ccae12f7eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7627f6dc3f9309ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "09.笔记模板/VUE页面模板.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c7abe7434e3e52c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e0ba694d0caef4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5912fd26ae4b87e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "122f4edfa7db92d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c0b6bef1ac6db7c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "881d8a66bdc72dfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "1871dee720d5e24c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff2129473cbb4e62",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "09.笔记模板/VUE页面模板.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a7c8d7116809768c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "09.笔记模板/VUE页面模板.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5cfece265de62e19",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c2e6e89c4f0706d4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "09.笔记模板/VUE页面模板.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "7627f6dc3f9309ee",
+  "lastOpenFiles": [
+    "06.神秘大渊/Token.md",
+    "09.笔记模板/VUE页面模板.md",
+    "06.神秘大渊/未命名.md",
+    "05.包罗万象/0504.万象_杂谈",
+    "05.包罗万象/0503.万象_爱好",
+    "05.包罗万象/0502.万象_没事",
+    "05.包罗万象/0501.万象_家装",
+    "03.应用平台/0306.应用_Others",
+    "03.应用平台/0305.应用_SmartHome",
+    "03.应用平台/0304.应用_Docker",
+    "03.应用平台/0303.应用_SoftRouter",
+    "03.应用平台/0302.应用_RaspberryPi",
+    "03.应用平台/0301.应用_Synology",
+    "01.网络技术/未命名.md"
+  ]
+}
