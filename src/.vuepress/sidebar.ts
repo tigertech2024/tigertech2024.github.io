@@ -5,7 +5,7 @@ export default sidebar({
     "",
     {
       text: "网络技术",
-      icon: "laptop-code",
+      icon: "network-wired",
       prefix: "notebook/01.网络技术/",
       link: "notebook/01.网络技术/",
       children: "structure",
@@ -33,7 +33,7 @@ export default sidebar({
     },
     {
       text: "包罗万象",
-      icon: "laptop-code",
+      icon: "earth-americas",
       prefix: "notebook/05.包罗万象/",
       link: "notebook/05.包罗万象/",
       children: "structure",

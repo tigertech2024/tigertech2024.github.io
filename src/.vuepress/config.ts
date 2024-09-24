@@ -6,7 +6,7 @@ export default defineUserConfig({
   base: "/",
 
   lang: "zh-CN",
-  title: "小虎头技术",
+  title: "TigerTech's blog",
   description: "一个神奇的个人知识库存储网站",
 
   theme,

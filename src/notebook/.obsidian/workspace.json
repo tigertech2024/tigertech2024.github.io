@@ -23,8 +23,12 @@
             "id": "bda64c92683724ac",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "03.应用平台/0306.应用_Others/vuepress 搭建记录.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03.应用平台/0306.应用_Others/vuepress 搭建记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03.应用平台/0306.应用_Others/vuepress 搭建记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "03.应用平台/0306.应用_Others/vuepress 搭建记录.md"
+              }
             }
           }
         ]
@@ -154,6 +162,7 @@
   },
   "active": "bda64c92683724ac",
   "lastOpenFiles": [
+    "03.应用平台/0306.应用_Others/vuepress 搭建记录.md",
     "05.包罗万象/0504.万象_杂谈/这是一个基础文件.md",
     "05.包罗万象/0503.万象_爱好/这是一个基础文件.md",
     "05.包罗万象/0502.万象_美食/这是一个基础文件.md",
@@ -179,7 +188,6 @@
     "01.网络技术/0102.网络_WL/这是一个基础文件.md",
     "01.网络技术/0101.网络_RS/这是一个基础文件.md",
     "01.网络技术/0101.网络_RS/未命名.md",
-    "09.Template/VUE页面模板.md",
     "template",
     "05.包罗万象/0504.万象_杂谈",
     "05.包罗万象/0503.万象_爱好",
